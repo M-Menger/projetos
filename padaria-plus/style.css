@@ -1,0 +1,48 @@
+body{
+    width: 600px;
+    margin: auto;
+    text-align: center;
+    background-color:beige;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    width: 400px;
+}
+
+.img-produtos{
+    width: 600px;
+}
+
+div{
+    width: 600px;
+    text-align: center;
+    margin: auto;
+}
+
+.produto div{
+    width: 600px;
+    background-color:chocolate ;
+}
+
+.img-logo{
+    width: 200px;
+}
+
+.sobre div{
+    width: 600px;
+    text-align: center;
+}
+
+.produto div{
+    width: 600px;
+}
+.contato div{
+    width: 600px;
+    text-align: right;
+    margin-bottom: 40px;
+    text-decoration: none;
+    color:#ff2247
+    
+    line-height: ;
+}
